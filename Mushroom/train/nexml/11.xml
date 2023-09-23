@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>11.jpg</filename>
+	<path>C:\Users\86150\Desktop\all\GraduateProject\YoloV5\YOLO5\YOLO5\Mushroom\train\images\11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>H</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>172</ymin>
+			<xmax>571</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,5 @@
+train: ../Mushroom/train/images
+val: ../Mushroom/test/images
+
+nc: 2
+names: ['H', 'B']
